@@ -1,0 +1,12 @@
+{
+  "name": "Contador React",
+  "short_name": "React-Cont",
+  "description": "Contador App con react CDN",
+  "background_color": "#333333",
+  "theme-color": "#333333",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "es-CO",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
